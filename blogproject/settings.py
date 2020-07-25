@@ -25,7 +25,7 @@ SECRET_KEY = 'n$s&+@ui^%@s9d1*@$1kk10o3-h01mf*3!t06bfzw$jw85i%#2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.xiaogejie.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
