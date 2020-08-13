@@ -1,12 +1,13 @@
 [[source]]
 name = "pypi"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
 verify_ssl = true
 
 [dev-packages]
 
 [packages]
-django = "~=2.2"
+simplejson = "*"
+django = "==2.2"
 markdown = "*"
 
 [requires]
